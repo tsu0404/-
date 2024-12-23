@@ -6,7 +6,7 @@
             if (colour === "黒" && number === 0) {
                 result = "激辛ペヤング";
             } else if (colour === "黒" && number === 1) {
-                result = "今からブラジル！！";
+                result = "今からブラジル";
             } else if (colour === "黒" && number === 2) {
                 result = "一週間ウルトラマンのコスプレ";
             } else if (colour === "白" && number === 0) {
